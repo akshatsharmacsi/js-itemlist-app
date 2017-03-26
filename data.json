@@ -1,43 +1,108 @@
 [
-   
-    
-{"firstName":"Pranab","middleName":"","lastName":"Mukherjee","served":"2012 To Present"},
- 
-{"firstName":"Pratibha","middleName":"","lastName":"Patil","served":"2007 To 2012"},
-    
-    
-{"firstName":"A. P. J.","middleName":"Abdul","lastName":"Kalam","served":"2002 To 2007"},
-    
-    
-{"firstName":"Kocheril","middleName":"Raman","lastName":"Narayanan","served":"1997 To 2002"},
-    
-    
-{"firstName":"Shankar","middleName":"Dayal","lastName":"Sharma","served":"1992 To 1997"},
-    
-    
-{"firstName":"Ramaswamy","middleName":"","lastName":"Venkataraman","served":"1987 To 1992"},
-    
-    
-{"firstName":"Giani","middleName":"Zail","lastName":"Singh","served":"1982 To 1987"},
-    
-    
-{"firstName":"Neelam","middleName":"Sanjiva","lastName":"Reddy","served":"1977 To 1982"},
-    
-    
-{"firstName":"Fakhruddin","middleName":"Ali","lastName":"Ahmed","served":"1974 To 1977"},
-    
-    
-{"firstName":"Varahagiri","middleName":"Venkata","lastName":"Giri","served":"1969 To 1974"},
-    
-    
-{"firstName":"Zakir","middleName":"","lastName":"Hussain","served":"1967 To 1969"},
-    
-    
-{"firstName":"Sarvepalli","middleName":"","lastName":"Radhakrishnan","served":"1962 To 1967"},
-    
-    
-{"firstName":"Rajendra","middleName":"","lastName":"Prasad","served":"1952 To 1962"}
-    
+
+
+    {
+        "firstName": "Pranab"
+        , "middleName": ""
+        , "lastName": "Mukherjee"
+        , "served": "2012 To Present"
+    },
+
+    {
+        "firstName": "Pratibha"
+        , "middleName": ""
+        , "lastName": "Patil"
+        , "served": "2007 To 2012"
+    },
+
+
+    {
+        "firstName": "A. P. J."
+        , "middleName": "Abdul"
+        , "lastName": "Kalam"
+        , "served": "2002 To 2007"
+    },
+
+
+    {
+        "firstName": "Kocheril"
+        , "middleName": "Raman"
+        , "lastName": "Narayanan"
+        , "served": "1997 To 2002"
+    },
+
+
+    {
+        "firstName": "Shankar"
+        , "middleName": "Dayal"
+        , "lastName": "Sharma"
+        , "served": "1992 To 1997"
+    },
+
+
+    {
+        "firstName": "Ramaswamy"
+        , "middleName": ""
+        , "lastName": "Venkataraman"
+        , "served": "1987 To 1992"
+    },
+
+
+    {
+        "firstName": "Giani"
+        , "middleName": "Zail"
+        , "lastName": "Singh"
+        , "served": "1982 To 1987"
+    },
+
+
+    {
+        "firstName": "Neelam"
+        , "middleName": "Sanjiva"
+        , "lastName": "Reddy"
+        , "served": "1977 To 1982"
+    },
+
+
+    {
+        "firstName": "Fakhruddin"
+        , "middleName": "Ali"
+        , "lastName": "Ahmed"
+        , "served": "1974 To 1977"
+    },
+
+
+    {
+        "firstName": "Varahagiri"
+        , "middleName": "Venkata"
+        , "lastName": "Giri"
+        , "served": "1969 To 1974"
+    },
+
+
+    {
+        "firstName": "Zakir"
+        , "middleName": ""
+        , "lastName": "Hussain"
+        , "served": "1967 To 1969"
+    },
+
+
+    {
+        "firstName": "Sarvepalli"
+        , "middleName": ""
+        , "lastName": "Radhakrishnan"
+        , "served": "1962 To 1967"
+    },
+
+
+    {
+        "firstName": "Rajendra"
+        , "middleName": ""
+        , "lastName": "Prasad"
+        , "served": "1952 To 1962"
+    }
+
 
 
 
